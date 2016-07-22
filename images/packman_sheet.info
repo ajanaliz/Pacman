@@ -1,0 +1,18 @@
+# Manual
+# [name] 0 [rect1-x,y,w,h] [rect2-x,y,w,h] ...
+pill 0 46,4,12,12
+score 0 60,0,80,20
+over 0 1,79,126,38
+
+# List of sprites
+# [name] 1D [V-ertical or H-orizontal] [size] [gap] [startX,startY,w,h]
+mazes 1D V 4 4 0,120,456,520
+powerpills 1D H 2 2 3,0,20,20
+edibleghosts 1D V 2 1 111,20,28,28
+eyes 1D H 4 1 0,67,22,8
+
+# table of sprites
+# [name] 2D [rows]x[columns] [row gap] [column gap] [startX,startY,w,h]
+digits 2D 2x5 1 4 0,22,14,20
+packmans 2D 4x3 1 1 373,0,28,28
+ghosts 2D 4x8 1 1 141,0,28,28
