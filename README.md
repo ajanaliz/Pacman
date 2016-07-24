@@ -1,2 +1,2 @@
 # Pacman
-my clone of the famouse game
+my clone of the famous game Pacman
